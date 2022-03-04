@@ -1,7 +1,7 @@
-### file grouper 
+# file grouper 
 
-# what ? 
+### what ? 
 python script that groups files with common extensions into folders labelled with those extensions 
 
-# how ? 
+### how ? 
 clone repo and run script inside directory whos files you want to group
